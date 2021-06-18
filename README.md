@@ -10,6 +10,9 @@ elements in total. <br>
 ◇ Each element could be e.g. if the Logo exists, the navigation 
 bar appears, the name on about us page is correct, etc.
 
+## To Test :
+website - https://www.thesparksfoundationsingapore.org/
+
 
 ## Implementation Video :
  Youtube- [See here](https://youtu.be/TtiZQ0ICB0w)
